@@ -1,6 +1,9 @@
-# knkblp18
+# KNKB-LP18
 
-![knkblp18](imgur.com image replace me!)
+![Screenshot 2025-04-19 190141](https://github.com/user-attachments/assets/697888f0-7fcd-4500-b16b-3a89b81bc8b3)
+![IMG_1448](https://github.com/user-attachments/assets/c77d7c40-db00-454c-b300-a1af70a0650b)
+
+
 
 *A short description of the keyboard/project*
 
